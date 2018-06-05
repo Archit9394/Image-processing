@@ -1,8 +1,5 @@
 # Image-processing
 
-~~~~~~~~~~~~~~~READ ME~~~~~~~~~~~~~
-
-
 6 Matlab files are attached.
 
 1) DIP_project_2_hough_gray.m	- 	This contains codes to find centers and diameter using hough transform for gray images	
@@ -15,4 +12,4 @@
 If you have to execute the code for a particular image, just remove the '%' sign of that particular image and run it.
 you will need to give the directory address at the begining of the script. I hope it won't be difficult to run it.
 
-~~~~~~~~~~~~~~THANK YOU~~~~~~~~~~~~
+THANK YOU
