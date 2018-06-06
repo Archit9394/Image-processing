@@ -1,0 +1,16 @@
+~~~~~~~~~~~~~~~READ ME~~~~~~~~~~~~~
+
+
+6 Matlab files are attached.
+
+1) Coin_detection_HoughTransform_gray_images.m	- This contains codes to find centers and diameter using hough transform for gray images	
+2) Coin_detection_Hough_set1.m 	- This contains codes to find centers and diameter using hough transform for set 1 images.
+3) Coin_detection__Hough_set2.m	- This contains codes to find centers and diameter using hough transform for set 2 images.
+4) Coin_detection__Hough_Color_images.m - This contains codes to find centers and diameter using hough transform for color images.
+5) Coin_detection_cross_correlation.m - This contains codes to find centers and diameter using cross-correlation for all images.
+6) Coin_detection_blob_detection.m- This contains codes to find centers and diameter using blob detection for all images.
+
+If you have to execute the code for a particular image, just remove the '%' sign of that particular image and run it.
+you will need to give the directory address at the begining of the script. I hope it won't be difficult to run it.
+
+~~~~~~~~~~~~~~THANK YOU~~~~~~~~~~~~
